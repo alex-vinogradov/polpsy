@@ -1,0 +1,7 @@
+# Висновки
+
+In summary, this book has no content whatsoever.
+
+```{r}
+hist(cars$speed)
+```
