@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
 
-lang: uk_UA
+lang: uk-UA
 
 book:
   title: "Методи політичної психології"
@@ -18,10 +18,17 @@ bibliography: references.bib
 
 format:
   html:
-    theme: cosmo
+    theme: solar
   pdf:
     documentclass: scrreprt
     mainfont: Cambria
     sansfont: Corbel
     monofont: Consolas
+
+title-block-banner: true
+toc-title: "Зміст"
+
+language: 
+  title-block-author-single: "Автор"
+  title-block-published: "Оновлено"
 
