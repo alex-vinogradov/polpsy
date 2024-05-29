@@ -5,7 +5,7 @@ project:
 lang: uk-UA
 
 book:
-  title: "Методи політичної психології"
+  title: "Технології політико-психологічних досліджень"
   author: "Олександр Виноградов"
   date: "5/18/2024"
   chapters:
@@ -24,6 +24,8 @@ format:
     mainfont: Cambria
     sansfont: Corbel
     monofont: Consolas
+    papersize: a5
+    fontsize: 10pt
 
 title-block-banner: true
 toc-title: "Зміст"
